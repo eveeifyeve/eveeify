@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eveeify
-- 👀 i like satisfactory modding
-- 🌱  satisfactory modding
+- 👀 i like codeing a discordbot
+- 🌱  Mediamana
 - 💞️ im looking aford to work together
-- 📫 eveeify@gmail.com for git requreys
+- 📫 eveeg1971@gmail.com for git reqs
 
 <!---
 eveeify/eveeify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
