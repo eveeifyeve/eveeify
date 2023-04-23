@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eveeify
+- 👋 Hi, I’m @eveeifyeve
 - 👀 i like codeing a discordbot
 - 🌱  Mediamana
 - 💞️ im looking aford to work together
