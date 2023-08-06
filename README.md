@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Hi there 👋
-- 🔭 I’m currently working on [TeaClient]('https://github.com/TeaclientMinecraft')
+- 🔭 I’m currently working on [TeaClient]("https://github.com/TeaclientMinecraft")
 - 🌱 I’m currently learning about Python
 - 🤔 I’m looking for help with [TeaClient]('discord.gg/teaclient')
 - 💬 Ask me about About Any Langrague Listed or Contributing
