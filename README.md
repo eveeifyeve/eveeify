@@ -11,7 +11,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [TeaClient]("https://github.com/TeaclientMinecraft")
 - 🌱 I’m currently learning about Python
-- 🤔 I’m looking for help with [TeaClient]('discord.gg/teaclient')
+- 🤔 I’m looking for help with [TeaClient]('https://discord.gg/teaclient')
 - 💬 Ask me about About Any Langrague Listed or Contributing
 - 📫 How to reach me: 
   - Discord: eveeifyeve
