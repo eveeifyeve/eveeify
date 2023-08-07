@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on [TeaClient]("https://github.com/TeaclientMinecraft")
-- 🌱 I’m currently learning about Python
+- 🌱 I’m currently learning about Python and blender
 - 🤔 I’m looking for help with [TeaClient]('https://discord.gg/teaclient')
 - 💬 Ask me about About Any Langrague Listed or Contributing
 - 📫 How to reach me: 
