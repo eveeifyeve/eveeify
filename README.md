@@ -18,5 +18,5 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Its Very hard to make a client
 
-![Eveeifyeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveeifyeve&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveeifyeve&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
+![Eveeifyeve's GitHub stats](https://github-stats-eight-bay.vercel.app/api?username=eveeifyeve&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
+![Top Langs](https://github-stats-eight-bay.vercel.app/api/top-langs/?username=eveeifyeve&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
