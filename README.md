@@ -1,6 +1,7 @@
 <img src='https://raw.githubusercontent.com/eveeifyeve/eveeify/main/minecraft.png'/>
-![profile viewers] (https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge)
-![followers] (https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge)
+
+![profile viewers](https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge)
+![followers](https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
