@@ -30,25 +30,15 @@ Software/Game Developer
 
 ### Hi Im Eveeify 👋
 > 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
-<br>
-<br>
 > 🌱 I’m currently learning about Python and blender
-<br>
-<br>
 > 🤔 I’m looking for help with [ TeaClient ]("https://www.discord.gg/teaclient")
-<br>
-<br>
 > 💬 Ask me about About Any Langrague Listed or Contributing
-<br>
-<br>
 > 📫 How to reach me: [Contact Me](https://eveeifyeve.github.io/eveeifyeve)
-<br>
-<br>
 > 😄 Pronouns: He/him
-<br>
-<br>
 > ⚡ Fun fact: Its Very hard to make a client
 <br>
+<br>
+
 
 ![Eveeifyeve's GitHub stats](https://github-stats-eight-bay.vercel.app/api?username=eveeifyeve&show_icons=true&theme=radical&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
 ![Top Langs](https://github-stats-eight-bay.vercel.app/api/top-langs/?username=eveeifyeve&show_icons=true&theme=radical&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
