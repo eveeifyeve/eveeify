@@ -1,17 +1,18 @@
-<img src='https://raw.githubusercontent.com/eveeifyeve/eveeify/main/minecraft.png'/>
+<img src='./assets//img/minecraft.png'/>
 
 ![profile viewers](https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge)
 ![followers](https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge)
 
 
-
+<h3>Languages That I <h3>
 <p align="left">
-  <img src="./icons/JavaScript.png">
-  <img src="./icons/Java.png">
-  <img src="./icons/Kotlin.png">
-  <img src="./icons/Go.png"/>
-  <img src="./icons/Rust.png">
+  <img width="48" height="48" src="./assets/img/JavaScript.png">
+  <img width="48" height="48" width="48" height="48" src="./assets/img/Java.png">
+  <img width="48" height="48" src="./assets/img/Kotlin.png">
+  <img width="48" height="48" src="./assets/img/Go.png"/>
+  <img width="48" height="48" src="./assets/img/Rust.png">
 </p>
+
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![JavaScript](./icons/JavaScript.png)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) &nbsp;
@@ -21,14 +22,26 @@
 ![TypeScript](./icons/TypeScript.png) -->
 
 ### Hi there 👋
-- 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
-- 🌱 I’m currently learning about Python and blender
-- 🤔 I’m looking for help with [ TeaClient ]("https://www.discord.gg/teaclient")
-- 💬 Ask me about About Any Langrague Listed or Contributing
-- 📫 How to reach me: 
-  - Discord: eveeifyeve
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Its Very hard to make a client
+> 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
+<br>
+<br>
+> 🌱 I’m currently learning about Python and blender
+<br>
+<br>
+> 🤔 I’m looking for help with [ TeaClient ]("https://www.discord.gg/teaclient")
+<br>
+<br>
+> 💬 Ask me about About Any Langrague Listed or Contributing
+<br>
+<br>
+> 📫 How to reach me: [Contact Me](https://eveeifyeve.github.io/eveeifyeve)
+<br>
+<br>
+> 😄 Pronouns: He/him
+<br>
+<br>
+> ⚡ Fun fact: Its Very hard to make a client
+<br>
 
 ![Eveeifyeve's GitHub stats](https://github-stats-eight-bay.vercel.app/api?username=eveeifyeve&show_icons=true&theme=radical&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
 <br>
