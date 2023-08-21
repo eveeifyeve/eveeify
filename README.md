@@ -1,8 +1,11 @@
-<img src='./assets//img/minecraft.png'/>
+<img align="left" src='./assets//img/minecraft.png'/>
+<h1 align="left">Software/Game Developer
+<h1>
+
+
 
 ![profile viewers](https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge)
 ![followers](https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge)
-
 
 <h3>Languages That I <h3>
 <p align="left">
@@ -21,7 +24,7 @@
 ![Rust](./icons/Rust.png)
 ![TypeScript](./icons/TypeScript.png) -->
 
-### Hi there 👋
+### Hi Im Eveeify 👋
 > 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
 <br>
 <br>
@@ -44,7 +47,6 @@
 <br>
 
 ![Eveeifyeve's GitHub stats](https://github-stats-eight-bay.vercel.app/api?username=eveeifyeve&show_icons=true&theme=radical&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
-<br>
-![Top Langs](https://github-stats-eight-bay.vercel.app/api/top-langs/?username=eveeifyeve&show_icons=true&theme=radical&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C)
+![Top Langs](https://github-stats-eight-bay.vercel.app/api/top-langs/?username=eveeifyeve&show_icons=true&theme=radical&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
 
 
