@@ -1,8 +1,5 @@
 <img align="left" src='./assets//img/minecraft.png'/>
 <h1>
-Eveeifyeve
-<br>
-<br>
 Software/Game Developer
 <h1>
 
@@ -28,7 +25,7 @@ Software/Game Developer
 ![Rust](./icons/Rust.png)
 ![TypeScript](./icons/TypeScript.png) -->
 
-### Hi Im Eveeify 👋
+### Hi I'm Eveeify 👋
 
 - 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
 - 🌱 I’m currently learning about Python and blender
