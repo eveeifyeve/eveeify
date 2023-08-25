@@ -1,5 +1,5 @@
 <img align="left" src='./assets//img/minecraft.png'/>
-<h1>
+<h1 align="center">
 Software/Game Developer
 <h1>
 
