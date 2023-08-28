@@ -39,7 +39,7 @@ Software/Game Developer
 - 🌱 I’m currently learning about Python and blender
 - 🤔 I’m looking for help with [ TeaClient ]("https://www.discord.gg/teaclient")
 - 💬 Ask me about About Any Langrague Listed or Contributing
-- 📫 How to reach me: [Contact Me](https://eveeifyeve.github.io/eveeifyeve)
+- 📫 How to reach me: [ Contact Me ](https://eveeifyeve.github.io/eveeifyeve/contact)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Its Very hard to make a client
 
