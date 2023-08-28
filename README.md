@@ -36,7 +36,7 @@ Software/Game Developer
 ### Hi I'm Eveeify 👋
 
 - 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
-- 🌱 I’m currently learning about Python and blender
+- 🌱 I’m currently learning about making multiplatform apps.
 - 🤔 I’m looking for help with [ TeaClient ]("https://www.discord.gg/teaclient")
 - 💬 Ask me about About Any Langrague Listed or Contributing
 - 📫 How to reach me: [ Contact Me ](https://eveeifyeve.github.io/eveeifyeve/contact)
