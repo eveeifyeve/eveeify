@@ -1,6 +1,6 @@
-<h1>
-<img src="">
-https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge
+<h1 align="left">
+<img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge
+">
 
 <h1>
 
