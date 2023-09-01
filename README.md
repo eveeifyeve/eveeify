@@ -1,7 +1,5 @@
 <h1 align="right">
-<img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge
-">
-
+<img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge">
 <h1>
 
 <h1 align="center">
