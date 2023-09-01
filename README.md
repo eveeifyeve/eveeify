@@ -1,5 +1,6 @@
 <h1 align="right">
 <img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge">
 <h1>
 
 <h1 align="center">
@@ -8,9 +9,6 @@
 Software/Game Developer
 <h1>
 
-
-
-![followers](https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge)
 
 <h3>Languages that I know:<h3>
 <p align="left">
