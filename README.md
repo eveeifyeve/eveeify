@@ -1,4 +1,4 @@
-<img align="left" src='./assets//img/minecraft.png'/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E8DF7&width=435&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+eveeify" alt="Typing SVG" /></a>
 <h1 align="center">
 Software/Game Developer
 <h1>
