@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E8DF7&width=435&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+eveeify" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Eveeify" alt="Typing SVG" /></a>
 <h1 align="center">
 Software/Game Developer
 <h1>
