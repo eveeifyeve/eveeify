@@ -35,7 +35,7 @@ Software/Game Developer
 ![Rust](./icons/Rust.png)
 ![TypeScript](./icons/TypeScript.png) -->
 
-### Hi I'm Eveeify 👋
+
 
 - 🔭 I’m currently working on [ TeaClient ]("https://www.github.com/TeaclientMinecraft")
 - 🌱 I’m currently learning about making multiplatform apps.
