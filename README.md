@@ -2,6 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Eveeify+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
+<h3 align="left">
+<img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge">
+<h3>
+
 Software & Game Developer
 -------------------------
 
@@ -14,10 +19,6 @@ Ive been learning to code for 3 months for now and I plan going for years
 *   🤝  I'm open to collaborating on coding projects.
 *   ⚡  I'm making a Minecraft client with cool developers
 
-<h3 align="left">
-<img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge">
-<h3>
 
 ### Skills 
 <p align="left">
