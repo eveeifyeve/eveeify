@@ -58,7 +58,7 @@ Ive been learning to code for 3 months for now and I plan going for years
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.stackoverflow.com/users/eveeifyeve" target="_blank" rel="noreferrer">
+                      <a href="https://stackoverflow.com/users/21934982/eveeifyeve" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
