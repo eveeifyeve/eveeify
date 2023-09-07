@@ -14,7 +14,7 @@ Ive been learning to code for 3 months for now and I plan going for years
 *   🤝  I'm open to collaborating on coding projects.
 *   ⚡  I'm making a Minecraft client with cool developers
 
-<h1 align="right">
+<h1 align="left">
 <img src="https://komarev.com/ghpvc/?username=eveeifyeve&label=Profile%20Views&color=04aed9&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/eveeifyeve?label=Followers&color=04aed9&style=for-the-badge">
 <h1>
