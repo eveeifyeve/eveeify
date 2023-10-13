@@ -1,6 +1,5 @@
-<h1 align="right">About Me</h1>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eveeifyeve.eveeifyeve&left_color=royalblue&right_color=mediumpurple&left_text=People%20Visited:)
+<h1 align="center">About Me</h1>
 
 
 <br clear="both">
