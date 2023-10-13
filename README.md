@@ -138,5 +138,5 @@ Ive been learning to code for 3 months for now and I plan going for years
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eveeifyeve/eveeifyeve/output/snake.svg" alt="Snake animation" />
+![Snake](https://raw.githubusercontent.com/eveeifyeve/eveeifyeve/output/snake.svg)
 
