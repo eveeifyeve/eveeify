@@ -133,5 +133,5 @@ Ive been learning to code for 3 months for now and I plan going for years
 *   ⚡  I'm making a Minecraft client with cool developers
                                                                                                   
 
-  <img src="https://github-stats-eight-bay.vercel.app/api?username=eveeifyeve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-stats-eight-bay.vercel.app/api/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-git-main-eveeifyeve.vercel.app/api?username=eveeifyeve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-stats-git-main-eveeifyeve.vercel.app/api/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
