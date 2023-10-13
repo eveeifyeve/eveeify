@@ -6,16 +6,16 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="35" alt="youtube logo"  />
-  <a href="twitter.com/eveeifyeve" target="_blank">
+  <a href="https://twitter.com/eveeifyeve" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
   </a>
-  <a href="twitch.tv/eveeifyeve" target="_blank">
+  <a href="https://twitch.tv/eveeifyeve" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="35" alt="twitch logo"  />
   </a>
   <a href="Coming soon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=plastic" height="35" alt="linktree logo"  />
+  <img href="Coming Soon" src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=plastic" height="35" alt="linktree logo"  />
 </div>
 
 
