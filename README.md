@@ -25,8 +25,7 @@
 <br clear="both">
 
 <div align="right">
-<!-- <img align="left" height="197" src="https://avatars.githubusercontent.com/u/88671402?v=4"  /> -->
-<img align="left" height="197" src=""  />
+<img align="right" height="197" src="https://avatars.githubusercontent.com/u/88671402?v=4"  />
  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo"  />
