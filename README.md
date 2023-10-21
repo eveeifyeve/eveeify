@@ -121,10 +121,6 @@
 Software, Game, Full-stack, DevOps and Security Developer
 -------------------------
 
-TeaClient: CEO,
-Cordevall; CEO,
-OpusClient: HeadDev,
-MediaMana: Developer.
 
 *   🌍  I'm based in Australia
 *   🖥️  See my portfolio at [My Socials](http://eveeifyeve.github.io/link-tree)
@@ -132,7 +128,21 @@ MediaMana: Developer.
 *   🚀  I'm currently working on OpusClient, TeaClient Website and Launcher Redesign for TeaClient
 *   🤝  I'm open to collaborating on coding projects.
 *   ⚡  I'm making a Minecraft client with cool developers
-                                                                                                  
+
+
+-------------------------
+
+Roles:
+
+> TeaClient: CEO,
+
+> Cordevall; CEO,
+
+> OpusClient: HeadDev,
+
+> MediaMana: Developer.
+                    
+-------------------------                                                                              
 
   <img src="https://github-stats-git-main-eveeifyeve.vercel.app/api?username=eveeifyeve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-stats-git-main-eveeifyeve.vercel.app/api/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
