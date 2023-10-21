@@ -118,15 +118,18 @@
 <br clear="both">
 
 
-Software & Game Developer
+Software, Game, Full-stack, DevOps and Security Developer
 -------------------------
 
-Ive been learning to code for 3 months for now and I plan going for years
+TeaClient: CEO,
+Cordevall; CEO,
+OpusClient: HeadDev,
+MediaMana: Developer.
 
 *   🌍  I'm based in Australia
-*   🖥️  See my portfolio at [My Socials](http://eveeifyeve.github.io/socials)
+*   🖥️  See my portfolio at [My Socials](http://eveeifyeve.github.io/link-tree)
 *   ✉️  You can contact me at [eveeg1971@gmail.com](mailto:eveeg1971@gmail.com)
-*   🚀  I'm currently working on [All Types Of Discord Bots](http://github.com/cordevall)
+*   🚀  I'm currently working on OpusClient, TeaClient Website and Launcher Redesign for TeaClient
 *   🤝  I'm open to collaborating on coding projects.
 *   ⚡  I'm making a Minecraft client with cool developers
                                                                                                   
