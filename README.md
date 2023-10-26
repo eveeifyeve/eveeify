@@ -25,29 +25,29 @@
 
 <div align="right">
 <img align="right" height="197" src="https://avatars.githubusercontent.com/u/88671402?v=4"  />
- <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo"  />
+ <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo" hef="https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo" hef="https://www.typescriptlang.org/"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=react" height="28" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="28" alt="react logo" hef="https://react.dev/" />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=html" height="28" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="28" alt="html5 logo" hef="https://github.com/whatwg/html"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=css" height="28" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="28" alt="css3 logo" hef="https://www.w3.org/TR/CSS/#css"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=astro" height="28" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="28" alt="astro logo" href="https://astro.build"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="28" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="28" alt="bootstrap logo" href=""  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=angular" height="28" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="28" alt="angularjs logo" href=""   />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="28" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="28" alt="flutter logo" href=""   />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="githubactions logo" href="https://github.com/features/actions"   />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=go" height="28" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="28" alt="go logo" href="https://go.dev" />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=gradle" height="28" alt="gradle logo"  />
   <img width="24" />
