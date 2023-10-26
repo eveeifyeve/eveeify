@@ -138,7 +138,7 @@ Roles:
 
 > Cordevall; CEO,
 
-> OpusClient: HeadDev,
+> OpusClient: Developer,
 
 > MediaMana: Developer.
                     
