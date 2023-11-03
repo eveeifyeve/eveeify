@@ -140,7 +140,7 @@ Roles:
 
 > OpusClient: Developer,
 
-> MediaMana: Developer.
+> MediaMana:  Volunteer Developer.
                     
 -------------------------                                                                              
 
