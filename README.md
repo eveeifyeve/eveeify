@@ -136,7 +136,7 @@ Roles:
 
 > TeaClient: CEO,
 
-> Cordevall; CEO,
+> Cordevall: CEO,
 
 > OpusClient: Developer,
 
