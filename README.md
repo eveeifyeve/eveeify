@@ -100,8 +100,6 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="28" alt="webpack logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=vim" height="28" alt="vim logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vite" height="28" alt="vite logo"  />
 </div>
 
 
@@ -113,11 +111,11 @@ Software, Game, Full-stack, DevOps and Security Developer
 
 
 *   🌍  I'm based in Australia
-*   🖥️  See my portfolio at [My Socials](http://eveeifyeve.github.io/link-tree)
+*   🖥️  See my portfolio at https://eveeifyeve.pages.dev
 *   ✉️  You can contact me at [eveeg1971@gmail.com](mailto:eveeg1971@gmail.com)
-*   🚀  I'm currently working on OpusClient, TeaClient Website and Launcher Redesign for TeaClient
-*   🤝  I'm open to collaborating on coding projects.
-*   ⚡  I'm making a Minecraft client with cool developers
+*   🚀  I'm currently working on Two Client Projects: TeaClient and OpusClient(PAID)
+*   🤝  I'm open to collaborating on PAID coding projects.
+*   ⚡   [New AI Soon?](https://github.com/Evolutify/)
 
 
 -------------------------
@@ -126,11 +124,10 @@ Roles:
 
 > TeaClient: CEO,
 
-> Cordevall: CEO,
+> Evolutify: CEO,
 
 > OpusClient: Developer,
 
-> MediaMana:  Volunteer Developer.
                     
 -------------------------                                                                              
 
