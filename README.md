@@ -1,21 +1,7 @@
 <h1 align="center">About Me</h1>
 
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" hef="https://youtube.com/eveeifyeve" height="35" alt="youtube logo"  />
-  <a href="https://twitter.com/eveeifyeve" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://twitch.tv/eveeifyeve" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="35" alt="twitch logo"  />
-  </a>
-  <a href="Coming soon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
-  </a>
-  <img href="Coming Soon" src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=plastic" height="35" alt="linktree logo"  />
-</div>
 
 
 
@@ -112,6 +98,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="vscode logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=webpack" height="28" alt="webpack logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=vim" height="28" alt="vim logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=vite" height="28" alt="vite logo"  />
 </div>
 
 
