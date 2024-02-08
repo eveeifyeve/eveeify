@@ -106,7 +106,7 @@
 <br clear="both">
 
 
-Software, Game, Full-stack, DevOps and Security Developer
+General purpose developer.
 -------------------------
 
 
