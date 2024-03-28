@@ -11,6 +11,13 @@
 
 <div align="right">
 <img align="right" height="197" src="https://avatars.githubusercontent.com/u/88671402?v=4"  />
+
+<div height="28">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html5,css3,astro&perline=45)](https://skillicons.dev)
+
+</div>
+
  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo" hef="https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo" hef="https://www.typescriptlang.org/"  />
@@ -100,6 +107,7 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="28" alt="webpack logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=vim" height="28" alt="vim logo"  />
+    <img src="https://skillicons.dev/icons?i=gleam" height="28" alt="gleam logo"  />
 </div>
 
 
@@ -131,12 +139,12 @@ Roles:
                     
 -------------------------                                                                              
 
-  <img src="https://github-stats-git-main-eveeifyeve.vercel.app/api?username=eveeifyeve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-stats-git-main-eveeifyeve.vercel.app/api/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eveeifyeve&bg_color=30,34e8ff,9e26ff&title_color=000&text_color=fff" height="150" alt="stats graph"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=30,34e8ff,9e26ff&hide_border=false&order=2&title_color=000&text_color=fff" height="150" alt="languages graph"  />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eveeifyeve.eveeifyeve&left_color=royalblue&right_color=mediumpurple&left_text=People%20Visited:)
 
 <br clear="both">
 
 ![Snake](https://raw.githubusercontent.com/eveeifyeve/eveeifyeve/output/snake.svg)
-
