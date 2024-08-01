@@ -12,13 +12,6 @@
 <div align="right">
 <img align="right" height="197" src="https://avatars.githubusercontent.com/u/88671402?v=4"  />
 
-<div height="28">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html5,css3,astro&perline=45)](https://skillicons.dev)
-
-</div>
-
- <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo" hef="https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo" hef="https://www.typescriptlang.org/"  />
   <img width="24" />
@@ -59,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=replit" height="28" alt="replit logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=rust" height="28" alt="rust logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=zig" height="28" alt="rust logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=sass" height="28" alt="sass logo"  />
   <img width="24" />
@@ -106,7 +101,8 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=webpack" height="28" alt="webpack logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vim" height="28" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="28" alt="vim logo" />
+  <img width = "24">
     <img src="https://skillicons.dev/icons?i=gleam" height="28" alt="gleam logo"  />
 </div>
 
