@@ -110,7 +110,7 @@
 <br clear="both">
 
 
-General purpose developer.
+Full Stack Web & MC Modpack Developer
 -------------------------
 
 
