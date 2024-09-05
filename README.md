@@ -103,7 +103,9 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=vim" height="28" alt="vim logo" />
   <img width = "24">
-    <img src="https://skillicons.dev/icons?i=gleam" height="28" alt="gleam logo"  />
+  <img src="https://skillicons.dev/icons?i=nix" height="28" alt="nix/nixos logo" />
+  <img width = "24">
+  <img src="https://skillicons.dev/icons?i=gleam" height="28" alt="gleam logo"  />
 </div>
 
 
