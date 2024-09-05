@@ -69,6 +69,8 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=tauri" height="28" alt="tauri logo"  />
   <img width="24" />
+  <img src="https://skillicons.dev/icons?i=electron" height="28" alt="electron logo"  />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=vercel" height="28" alt="vercel logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=vite" height="28" alt="vite logo"  />
