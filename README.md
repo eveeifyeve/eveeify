@@ -120,21 +120,23 @@ Full Stack Web & MC Modpack Developer
 
 *   🌍  I'm based in Australia
 *   🖥️  See my portfolio at https://eveeifyeve.pages.dev
-*   ✉️  You can contact me at [eveeg1971@gmail.com](mailto:eveeg1971@gmail.com)
-*   🚀  I'm currently working on Two Client Projects: TeaClient and OpusClient(PAID)
+*   ✉️  You can contact me at [officialeveeifyeve@gmail.com](mailto:officialeveeifyeve@gmail.com)
+*   🚀  I'm currently working on Two Minecraft Modpack Projects: TeaClient and OpusClient(PAID)
 *   🤝  I'm open to collaborating on PAID coding projects.
-*   ⚡   [New AI Soon?](https://github.com/Evolutify/)
+*   ⚡  Curious for some help on modpack launchers [check out my library](https://github.com/minecraft-essentials)
 
 
 -------------------------
 
 Roles:
 
-> TeaClient: CEO,
+- TeaClient: CEO,
+- OpusClient: Developer,
 
-> Evolutify: CEO,
-
-> OpusClient: Developer,
+Opensource Projects: 
+- Evolutify: CEO,
+- Cordevall CEO
+- Minecraft-essentials Owner
 
                     
 -------------------------                                                                              
