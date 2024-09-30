@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,html,css,wasm,astro,bootstrap,angular,flutter,solidjs,tailwind,threejs,tauri,electron,vue,go,gradle,godot,jquery,kotlin,lua,mongodb,nextjs,replit,rust,zig,cpp,cmake,sass,supabase,sqlite,prisma,swift,svg,vscode,webpack,vim,nix,gleam,maven,java,docker,gatsby,github,nginx,nodejs,postman,vite,ps,pr,githubactions&perline=13" />
+    <img src="go-skill-icons.vercel.app/api/icon?i=ts,react,html,css,wasm,astro,bootstrap,angular,flutter,solidjs,tailwind,threejs,tauri,electron,vue,go,gradle,godot,jquery,kotlin,lua,mongodb,nextjs,replit,rust,zig,cpp,cmake,sass,supabase,sqlite,prisma,swift,svg,vscode,webpack,vim,nix,gleam,maven,java,docker,gatsby,github,nginx,nodejs,postman,vite,ps,pr,githubactions&perline=13" />
   </a>
 </p>
 
@@ -14,6 +14,7 @@ Full Stack Web & MC Modpack Developer
 *   🚀  I'm currently working on Two Minecraft Modpack Projects: TeaClient and OpusClient(PAID)
 *   🤝  I'm open to collaborating on PAID coding projects.
 *   ⚡  Curious for some help on modpack launchers [check out my library](https://github.com/minecraft-essentials)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eveeifyeve.eveeifyeve&left_color=royalblue&right_color=mediumpurple&left_text=People%20Visited:)
 
 <details>
