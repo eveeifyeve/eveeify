@@ -18,21 +18,21 @@ def turn_list_to_img(skills) -> str:
     img_url = f"{base_url}{skills_str}&perline=13"
 
     html_snippet = f"""
-    <p align="center">
-      <a href="https://skillicons.dev">
+<p align="center">
+    <a href="https://skillicons.dev">
         <img src="{img_url}" />
-      </a>
-    </p>
+    </a>
+</p>
     """
     return html_snippet
 
 def detials_template(summary: str, input: str) -> str:
     html_snipet = f"""
-    <details>
-        <summary>{summary}✍️</summary>
-        {input}
-    </details>
-    """
+<details>
+    <summary>{summary}✍️</summary>
+    {input}
+</details>
+"""
     return html_snipet
 
 def githubStats(url_point: str, params: list, alt: str) -> str:
@@ -43,7 +43,7 @@ def githubStats(url_point: str, params: list, alt: str) -> str:
     params_str = "&".join(params)
 
     return f"""
-        <img src="{base_url}{url_point}?username={username}{params_str}" height="150" alt="{alt} graph"/>
+    <img src="{base_url}{url_point}?username={username}{params_str}" height="150" alt="{alt} graph"/>
     """
 
 try:
@@ -123,8 +123,8 @@ try:
     stats_base_url = "https://github-readme-stats.vercel.app/api"
 
     stats = f"""
-    <img src="{stats_base_url}?username=eveeifyeve&bg_color=30,34e8ff,9e26ff&title_color=000&text_color=fff" height="150" alt="stats graph"/>
-    <img src="{stats_base_url}/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=30,34e8ff,9e26ff&hide_border=false&order=2&title_color=000&text_color=fff" height="150" alt="languages graph"  />
+<img src="{stats_base_url}?username=eveeifyeve&bg_color=30,34e8ff,9e26ff&title_color=000&text_color=fff" height="150" alt="stats graph"/>
+<img src="{stats_base_url}/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=30,34e8ff,9e26ff&hide_border=false&order=2&title_color=000&text_color=fff" height="150" alt="languages graph"  />
     """
 
     major = {
@@ -142,11 +142,11 @@ try:
     opensource_projects_lines = [f"- {project}: {role}" for project, role in opensource.items()]
 
     roles = f"""
-    Major Projects/Company’s
-    {',\n    '.join(major_projects_lines)},
+Major Projects/Company’s
+{',\n'.join(major_projects_lines)},
 
-    Opensource Projects: 
-    {',\n    '.join(opensource_projects_lines)}
+Opensource Projects: 
+{',\n'.join(opensource_projects_lines)}
     """
 
     details = detials_template("Github Stats ⚡️", stats) + detials_template("Roles ✍️", roles)
