@@ -1,6 +1,6 @@
 import re
 
-def extract_and_replace(text, replacements) -> str:
+def extract_and_replace(text: str, replacements: dict[str]) -> str:
     # Regular expression to find content inside ${}
     pattern = r'\$\{([^}]+)\}'
 
@@ -12,7 +12,7 @@ def extract_and_replace(text, replacements) -> str:
     result = re.sub(pattern, replacer, text)
     return result
 
-def turn_list_to_img(skills) -> str:
+def turn_list_to_img(skills: list[str]) -> str:
     base_url = "https://go-skill-icons.vercel.app/api/icons?i="
     skills_str = ",".join(skills)
     img_url = f"{base_url}{skills_str}&perline=13"
