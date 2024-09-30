@@ -71,7 +71,8 @@ try:
             "swift", 
             "svg",
             "nix", 
-            "gleam"
+            "gleam",
+            "python",
             ]
 
     tool_skils = [
