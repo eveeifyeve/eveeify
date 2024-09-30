@@ -1,12 +1,13 @@
 import re
+from typing_extensions import Match
 
 def extract_and_replace(text: str, replacements: dict[str]) -> str:
     # Regular expression to find content inside ${}
     pattern = r'\$\{([^}]+)\}'
 
-    def replacer(match):
-        key = match.group(1)
-        return replacements.get(key, match.group(0))  # Return the replacement if found, else return the original match
+    def replacer(match_items: Match) -> str:
+        key = match_items.group(1)
+        return replacements.get(key, match_items.group(0))  # Return the replacement if found, else return the original match
 
     # Substitute the placeholders with the replacements
     result = re.sub(pattern, replacer, text)
