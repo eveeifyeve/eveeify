@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="go-skill-icons.vercel.app/api/icon?i=ts,react,html,css,wasm,astro,bootstrap,angular,flutter,solidjs,tailwind,threejs,tauri,electron,vue,go,gradle,godot,jquery,kotlin,lua,mongodb,nextjs,replit,rust,zig,cpp,cmake,sass,supabase,sqlite,prisma,swift,svg,vscode,webpack,vim,nix,gleam,maven,java,docker,gatsby,github,nginx,nodejs,postman,vite,ps,pr,githubactions&perline=13" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,html,css,wasm,astro,bootstrap,angular,flutter,solidjs,tailwind,threejs,tauri,electron,vue,go,gradle,godot,jquery,kotlin,lua,mongodb,nextjs,replit,rust,zig,cpp,cmake,sass,supabase,sqlite,prisma,swift,svg,vscode,webpack,vim,nix,gleam,maven,java,docker,gatsby,github,nginx,nodejs,postman,vite,ps,pr,githubactions&perline=13" />
   </a>
 </p>
 
