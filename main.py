@@ -1,11 +1,10 @@
 import re
-from typing_extensions import Match
 
-def extract_and_replace(text: str, replacements: dict[str]) -> str:
+def extract_and_replace(text: str, replacements: dict[str, str]) -> str:
     # Regular expression to find content inside ${}
     pattern = r'\$\{([^}]+)\}'
 
-    def replacer(match_items: Match) -> str:
+    def replacer(match_items) -> str:
         key = match_items.group(1)
         return replacements.get(key, match_items.group(0))  # Return the replacement if found, else return the original match
 
