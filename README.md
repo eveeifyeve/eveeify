@@ -55,6 +55,8 @@
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=zig" height="28" alt="rust logo"  />
   <img width="24" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="28" alt="cpp logo"  />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=sass" height="28" alt="sass logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="28" alt="solid logo"  />
