@@ -19,7 +19,7 @@ def turn_list_to_img(skills: list[str]) -> str:
 
     html_snippet = f"""
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://github.com/LelouchFR/skill-icons">
         <img src="{img_url}" />
     </a>
 </p>
@@ -104,6 +104,8 @@ try:
     db_skils = [
             "mongodb",
             "sqlite",
+            "postgresql",
+            "surrealdb",
             ]
 
     other_skils = [
