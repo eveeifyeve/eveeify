@@ -133,7 +133,7 @@ try:
 
     major = {
             "TeaClient": "CEO/Founder",
-            "OpusClient": "Developer"
+            "OpusClient": "Developer (2023-2024)"
             }
 
     opensource = {
