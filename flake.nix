@@ -17,9 +17,7 @@
         devShells.default = pkgs.mkShell
         {
           packages = with pkgs; [
-            (python3.withPackages (p: with p; [
-              # Python dependencies
-            ]))
+            python3
           ];
         };
       };
