@@ -99,6 +99,7 @@ try:
             "jquery",
             "angular",
             "solidjs",
+            "bun",
             ]
 
     db_skils = [
