@@ -33,7 +33,7 @@ Full Stack Web & MC Modpack Developer
     
 Major Projects/Company’s
 - TeaClient: CEO/Founder,
-- OpusClient: Developer,
+- OpusClient: Developer (2023-2024),
 
 Opensource Projects: 
 - Evolutify: CEO,
