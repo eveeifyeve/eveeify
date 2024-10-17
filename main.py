@@ -117,6 +117,10 @@ try:
             "github",
             "gimp",
             "pr",
+            "arcbrowser",
+            "zen",
+    `       "firefox",
+            "chrome",
             ]
 
     skills = lang_skils + tool_skils + db_skils + other_skils
