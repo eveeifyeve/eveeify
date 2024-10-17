@@ -119,7 +119,7 @@ try:
             "pr",
             "arcbrowser",
             "zen",
-    `       "firefox",
+            "firefox",
             "chrome",
             ]
 
