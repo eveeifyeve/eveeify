@@ -55,6 +55,7 @@ try:
     # Skills
     lang_skils = [
             "ts", 
+            "js",
             "react", 
             "html",
             "css",
