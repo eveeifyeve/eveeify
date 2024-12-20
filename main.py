@@ -75,6 +75,7 @@ try:
             "nix", 
             "gleam",
             "python",
+            "bash",
             ]
 
     tool_skils = [
