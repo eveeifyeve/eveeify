@@ -6,7 +6,7 @@
 </p>
     
 
-Full Stack Web & MC Modpack Developer
+Full Stack Web & MC Mod/Modpack/Client (Not Hacked) Developer
 -------------------------
 
 *   🌍  I'm based in Australia
