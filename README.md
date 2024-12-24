@@ -31,15 +31,15 @@ Full Stack Web & MC Mod/Modpack/Client (Not Hacked) Developer
 <details>
     <summary>Roles ✍️✍️</summary>
     
-Major Projects/Company’s
+### Major Projects/Company’s
 - TeaClient: CEO/Founder,
 - OpusClient: Developer (2023-2024),
 
-Non-Major Projects/Company's
+### Non-Major Projects/Company's
 - DuvanMC: Cheif Website Officer,
 - Nodeforge: Developer,
 
-Opensource Projects: 
+### Opensource Projects: 
 - Evolutify: CEO,
 - Cordevall: CEO,
 - Minecraft-essentials: Owner
