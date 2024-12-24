@@ -159,13 +159,13 @@ try:
 
 
     roles = f"""
-Major Projects/Company’s
+### Major Projects/Company’s
 {',\n'.join(major_projects_lines)},
 
-Non-Major Projects/Company's
+### Non-Major Projects/Company's
 {',\n'.join(nonmajor_projects_lines)},
 
-Opensource Projects: 
+### Opensource Projects: 
 {',\n'.join(opensource_projects_lines)}
 
 
