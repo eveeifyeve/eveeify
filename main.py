@@ -141,23 +141,34 @@ try:
     major = {
             "TeaClient": "CEO/Founder",
             "OpusClient": "Developer (2023-2024)"
-            }
+        }
+    nonmajor = {
+            "DuvanMC": "Cheif Website Officer",
+            "Nodeforge": "Developer",
+        }
 
     opensource = {
             "Evolutify": "CEO",
             "Cordevall": "CEO",
             "Minecraft-essentials": "Owner"
-            }
+        }
 
     major_projects_lines = [f"- {project}: {role}" for project, role in major.items()]
+    nonmajor_projects_lines = [f"- {project}: {role}" for project, role in nonmajor.items()]
     opensource_projects_lines = [f"- {project}: {role}" for project, role in opensource.items()]
+
 
     roles = f"""
 Major Projects/Company’s
 {',\n'.join(major_projects_lines)},
 
+Non-Major Projects/Company's
+{',\n'.join(nonmajor_projects_lines)},
+
 Opensource Projects: 
 {',\n'.join(opensource_projects_lines)}
+
+
     """
 
     details = detials_template("Github Stats ⚡️", stats) + detials_template("Roles ✍️", roles)
