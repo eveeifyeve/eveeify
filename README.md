@@ -35,10 +35,16 @@ Major Projects/Company’s
 - TeaClient: CEO/Founder,
 - OpusClient: Developer (2023-2024),
 
+Non-Major Projects/Company's
+- DuvanMC: Cheif Website Officer,
+- Nodeforge: Developer,
+
 Opensource Projects: 
 - Evolutify: CEO,
 - Cordevall: CEO,
 - Minecraft-essentials: Owner
+
+
     
 </details>
 
