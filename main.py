@@ -143,7 +143,8 @@ try:
             "OpusClient": "Developer (2023-2024)"
         }
     nonmajor = {
-            "DuvanMC": "Cheif Website Officer",
+            "DuvanMC(moved to Azura)": "Cheif Website Officer (2024)",
+            "AzureMC": "Director of Development", 
             "Nodeforge": "Developer",
         }
 
