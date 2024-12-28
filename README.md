@@ -35,7 +35,8 @@ Full Stack Web & MC Mod/Modpack/Client (Not Hacked) Developer
 - OpusClient: Developer (2023-2024),
 
 ### Non-Major Projects/Company's
-- DuvanMC: Cheif Website Officer,
+- DuvanMC(moved to Azura): Cheif Website Officer (2024),
+- AzureMC: Director of Development,
 - Nodeforge: Developer,
 
 ### Opensource Projects: 
