@@ -36,7 +36,7 @@ Full Stack Web & MC Mod/Modpack/Client (Not Hacked) Developer
 
 ### Non-Major Projects/Company's
 - DuvanMC(moved to Azura): Cheif Website Officer (2024),
-- AzureMC: Director of Development,
+- AzureMC: Manager of Development,
 - Nodeforge: Developer,
 
 ### Opensource Projects: 
