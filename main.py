@@ -144,7 +144,7 @@ try:
         }
     nonmajor = {
             "DuvanMC(moved to Azura)": "Cheif Website Officer (2024)",
-            "AzureMC": "Director of Development", 
+            "AzureMC": "Manager of Development", 
             "Nodeforge": "Developer",
         }
 
