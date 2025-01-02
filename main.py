@@ -114,6 +114,8 @@ try:
 
     other_skils = [
             "vim",
+            "neovim",
+            "idea",
             "vscode",
             "docker",
             "postman",
