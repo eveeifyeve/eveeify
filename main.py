@@ -76,6 +76,7 @@ try:
             "gleam",
             "python",
             "bash",
+            "dart",
             ]
 
     tool_skils = [
@@ -103,6 +104,7 @@ try:
             "angular",
             "solidjs",
             "bun",
+            "discordjs",
             ]
 
     db_skils = [
@@ -122,6 +124,7 @@ try:
             "github",
             "gimp",
             "pr",
+            "davinci",
             "arcbrowser",
             "zen",
             "firefox",
