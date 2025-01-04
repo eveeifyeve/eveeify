@@ -1,16 +1,22 @@
 import re
+import requests
+import json
+
 
 def extract_and_replace(text: str, replacements: dict[str, str]) -> str:
     # Regular expression to find content inside ${}
-    pattern = r'\$\{([^}]+)\}'
+    pattern = r"\$\{([^}]+)\}"
 
     def replacer(match_items) -> str:
         key = match_items.group(1)
-        return replacements.get(key, match_items.group(0))  # Return the replacement if found, else return the original match
+        return replacements.get(
+            key, match_items.group(0)
+        )  # Return the replacement if found, else return the original match
 
     # Substitute the placeholders with the replacements
     result = re.sub(pattern, replacer, text)
     return result
+
 
 def turn_list_to_img(skills: list[str]) -> str:
     base_url = "https://go-skill-icons.vercel.app/api/icons?i="
@@ -26,6 +32,7 @@ def turn_list_to_img(skills: list[str]) -> str:
     """
     return html_snippet
 
+
 def detials_template(summary: str, input: str) -> str:
     html_snipet = f"""
 <details>
@@ -34,6 +41,7 @@ def detials_template(summary: str, input: str) -> str:
 </details>
 """
     return html_snipet
+
 
 def githubStats(url_point: str, params: list, alt: str) -> str:
     username = "eveeifyeve"
@@ -46,96 +54,19 @@ def githubStats(url_point: str, params: list, alt: str) -> str:
     <img src="{base_url}{url_point}?username={username}{params_str}" height="150" alt="{alt} graph"/>
     """
 
+
 try:
     # Open the file and read its contents
-    with open('README.md.rst', 'r') as file:
+    with open("README.md.rst", "r") as file:
         template = file.read()
 
-
     # Skills
-    lang_skils = [
-            "ts", 
-            "js", 
-            "html",
-            "css",
-            "sass",
-            "astro", 
-            "svelte",
-            "swift",
-            "go", 
-            "cpp",
-            "react",
-            "kotlin",
-            "lua", 
-            "rust", 
-            "zig",  
-            "vue",
-            "java",  
-            "svg",
-            "nix", 
-            "gleam",
-            "python",
-            "bash",
-            "dart",
-            ]
-
-    tool_skils = [
-            "maven",
-            "gradle",
-            "bootstrap",
-            "godot",
-            "nextjs",
-            "supabase",
-            "replit",
-            "tailwind",
-            "tauri",
-            "electron",
-            "vercel",
-            "vite",
-            "webpack",
-            "prisma",
-            "gatsby",
-            "nginx",
-            "nodejs",
-            "cmake",
-            "githubactions",
-            "flutter",
-            "jquery",
-            "angular",
-            "solidjs",
-            "bun",
-            "discordjs",
-            ]
-
-    db_skils = [
-            "mongodb",
-            "sqlite",
-            "postgresql",
-            "surrealdb",
-            ]
-
-    other_skils = [
-            "vim",
-            "neovim",
-            "idea",
-            "vscode",
-            "docker",
-            "postman",
-            "github",
-            "gimp",
-            "pr",
-            "davinci",
-            "arcbrowser",
-            "zen",
-            "firefox",
-            "chrome",
-            ]
-
-    skills = lang_skils + tool_skils + db_skils + other_skils
+    response = requests.get("https://eveeifyeve.pages.dev/api/skillIcon")
+    skills = json.loads(response.text)
 
     skillsImg = turn_list_to_img(skills)
 
-    # Details 
+    # Details
     stats_base_url = "https://github-readme-stats.vercel.app/api"
 
     stats = f"""
@@ -143,26 +74,26 @@ try:
 <img src="{stats_base_url}/top-langs?username=eveeifyeve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=30,34e8ff,9e26ff&hide_border=false&order=2&title_color=000&text_color=fff" height="150" alt="languages graph"  />
     """
 
-    major = {
-            "TeaClient": "CEO/Founder",
-            "OpusClient": "Developer (2023-2024)"
-        }
+    major = {"TeaClient": "CEO/Founder", "OpusClient": "Developer (2023-2024)"}
     nonmajor = {
-            "DuvanMC(moved to Azura)": "Cheif Website Officer (2024)",
-            "AzureMC": "Manager of Development", 
-            "Nodeforge": "Developer",
-        }
+        "DuvanMC(moved to Azura)": "Cheif Website Officer (2024)",
+        "AzureMC": "Manager of Development",
+        "Nodeforge": "Developer",
+    }
 
     opensource = {
-            "Evolutify": "CEO",
-            "Cordevall": "CEO",
-            "Minecraft-essentials": "Owner"
-        }
+        "Evolutify": "CEO",
+        "Cordevall": "CEO",
+        "Minecraft-essentials": "Owner",
+    }
 
     major_projects_lines = [f"- {project}: {role}" for project, role in major.items()]
-    nonmajor_projects_lines = [f"- {project}: {role}" for project, role in nonmajor.items()]
-    opensource_projects_lines = [f"- {project}: {role}" for project, role in opensource.items()]
-
+    nonmajor_projects_lines = [
+        f"- {project}: {role}" for project, role in nonmajor.items()
+    ]
+    opensource_projects_lines = [
+        f"- {project}: {role}" for project, role in opensource.items()
+    ]
 
     roles = f"""
 ### Major Projects/Company’s
@@ -177,12 +108,14 @@ try:
 
     """
 
-    details = detials_template("Github Stats ⚡️", stats) + detials_template("Roles ✍️", roles)
+    details = detials_template("Github Stats ⚡️", stats) + detials_template(
+        "Roles ✍️", roles
+    )
 
     replacements = {
-            "List": skillsImg,
-            "Details": details,
-            }
+        "List": skillsImg,
+        "Details": details,
+    }
 
     result = extract_and_replace(template, replacements)
 
