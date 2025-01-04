@@ -62,7 +62,7 @@ try:
 
     # Skills
     response = requests.get("https://eveeifyeve.pages.dev/api/skillIcon")
-    skills = json.loads(response.text)
+    skills = list(json.loads(response.text))
 
     skillsImg = turn_list_to_img(skills)
 
