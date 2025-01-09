@@ -76,8 +76,7 @@ try:
 
     major = {"TeaClient": "CEO/Founder", "OpusClient": "Developer (2023-2024)"}
     nonmajor = {
-        "DuvanMC(moved to Azura)": "Cheif Website Officer (2024)",
-        "AzureMC": "Manager of Development",
+        "DuvanMC": "Manager of Development (2024)",
         "Nodeforge": "Developer",
     }
 
